@@ -1,4 +1,4 @@
 # hardware-demo
 
 ## priview
-![avatar](./demo.jpg)
+![avatar](demo.jpg)
