@@ -1,4 +1,7 @@
 # hardware-demo
 
-## priview
-![Image](demo.jpg)
+## Preview
+### Front
+![Image](demo-F.png)
+### Back
+![Image](demo-B.png)
